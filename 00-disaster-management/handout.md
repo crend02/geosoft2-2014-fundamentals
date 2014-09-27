@@ -19,13 +19,13 @@
 #### Katastrophenmanagement in Deutschland ####
 
 - Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
-      - Zivilschutz:Durch nichtmilitärische Maßnahmen, die Bevölkerung, Arbeitsstätten, Kulturgut, \dots schützen z.B. Brandschutz, Sanitätsdienste, Betreuung
-      - Ausbildungsmöglichkeiten: Erste Hilfe, \dots
-      - Kostenregelung: Bund übernimmt Kosten \cite{bbk}
+      - Zivilschutz: Durch nichtmilitärische Maßnahmen, die Bevölkerung, Arbeitsstätten, Kulturgut, ... schützen
+      - Ausbildungsmöglichkeiten: Erste Hilfe, ...
+      - Kostenregelung: Bund übernimmt Kosten
 
 #### Probleme ####
 
 - keine/kaum Organisation zwischen den Organisationen
      - viel Zeit/Geld wird verschwendet, die mit z.B. einer globalen Organisation eingespart werden könnte
-- den Freiwilligen fehlt es oft an Ausbildung (erste Hilfe, medizinische Grundkenntnisse, \dots)
+- den Freiwilligen fehlt es oft an Ausbildung (erste Hilfe, medizinische Grundkenntnisse, ...)
 - Medien verzerren Ereignisse
